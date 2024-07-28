@@ -1,0 +1,9 @@
+{
+	     "作者": "融融",
+	     "站名": "libvio影视",
+         "主页url": "https://www.libvio.pw/",
+        "分类": "电影$1#剧集$2#动漫$4#日韩剧$15#欧美剧$16",
+        "分类url": "https://www.libvio.pw/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "线路数组": "<h3 class=\"iconfont&&</div>[不包含:视频下载#网盘]",
+        "线路标题": "<span>&&</span>[替换:线路1>>🍎小苹果影视#线路2>>🍎小苹果影视2]"
+      }

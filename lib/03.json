@@ -1,0 +1,19 @@
+{
+				"主页url": "https://www.03yy.co",
+				"数组": "<div class=\"pic-content pic-width-2\">&&</div",
+				"副标题": "<span>&&</span>",
+				"简介": "<p&&</p>",
+				"导演": "导演：&&</div>",
+				"主演": "主演：&&</div>",
+				"搜索模式": "1",
+				"搜索url": "https://www.03yy.co/search.php?searchword={wd}",
+				"搜索副标题": "<span>&&</span>",
+				"搜索副标题": "note\">&&</div>",
+				"搜索链接": "href=\"&&\"",
+				"线路二次截取": "<ul id=\"playlist\">&&</ul",
+				//"跳转播放链接":"Base64(<div class=\"player_1*var now=base64decode(\"&&\"))",
+				"线路数组": " <li&&li>",
+				"线路标题": ">🍎小苹果影视<",
+				"分类url": "https://www.03yy.co/{cateId}.html",
+				"分类": "电影$movies#电视剧$tv#动漫$dongman#综艺$zongyi"
+			}
