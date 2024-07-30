@@ -1,0 +1,12 @@
+{
+"站名": "神仙影视",
+"作者": "融融",
+"分类url": "https://ys.sxtv.top/index.php/vod/type/{area}/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}.html[https://ys.sxtv.top/index.php/vod/type/id/{cateId}.html]",
+"分类": "电影&剧集&动漫&综艺",
+"分类值": "1&2&4&3",
+
+"简介":"🍎小苹果影视提示：片中广告勿信，防止上当！+<p>&&</p>",
+"线路标题":"🍎小苹果影视+<span>&&Text</small>[替换:线路1>>🍎小苹果影视1#线路2>>🍎小苹果影视2#线路3>>🍎小苹果影视3#线路4>>🍎小苹果影视4#线路5>>🍎小苹果影视5#</span><small>>>>线路共]+",
+"排序": "时间$time#人气$hits#评分$score",
+"主页url": "https://ys.sxtv.top/"
+}
